@@ -15,7 +15,7 @@ import Concacto from "./componentes/page/contacto/contacto";
 const App = () => {
   return (
     <div className="app s-pxy-2">
-      <h1 className="s-center">Bienvenidos a Sendrix1</h1>
+      <h1 className="s-center">Bienvenidos a Sendrix12</h1>
       <Router>
         <ul className="nav-container s-border s-main-center s-pl-0">
           <li className="nav-container--item s-mr-2">
